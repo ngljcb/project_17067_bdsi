@@ -1,0 +1,26 @@
+username;nome;email;indirizzo;partitaIva;telefono
+Antonio;Kutala;Antonio@gmail.it;"via Verona 67, Milano";NULL;049657815
+cagossi;Andrea;andrea@gmail.it;"via Tommaseo 68, Padova";NULL;3659845621
+Cleo;Nenganga;cleo@gmail.it;"via Savonarola 49, Torino";98765432108;0123456789
+Erivando;Pinto;pintog@mail.it;"viale Ledrana 12, Osmannoro";NULL;3211233211
+Estevao;Komba;Komba@gmail.it;"piazzale XXVI Novembre 5, Roma";69851302657;0432150099
+gamber;Giovanni;gamberg@mail.it;"viale Ledra 10, Udine";NULL;3211233211
+isaac;cacalo;isaac@gmail.it;"piazzale XXVI Luglio 4, Parma";69851302657;0432150099
+Jack;Gentilli;jack@gmail.it;"via Savonarola 50, Torino";98765432105;0123456789
+Joao;Nazare;joao@gmail.it;"piazzale XXVI Gigno 5, Sicilia";69851302652;0432150099
+Josemar;Panzo;panzog@gmail.com;"via della pira 122, firenze";21675943026;02346885
+Kuonga;Kiss;kuonga@gmail.it;"piazza dalmazia 33, Firenze";12345678913;02657811
+leonardo;nascimento;leonardo@gmail.it;"via Venezia 63, Padova";NULL;049657815
+Lucas;Nenganga;lucasn@gmail.it;"via Portello 14, Roma";NULL;3488520258
+marco;Guzzardi;marcog@gmail.com;"via Napoli 128, Milano";21675943028;02346985
+Marcos;Martelli;martellig@mail.it;"viale Ledrana 11, Viareggio";NULL;3211233211
+mirko;ponzio;mirkop@gmail.it;"via Udine 31, Milano";12345678910;02657811
+orges;Tarihaj;orgest@gmail.it;"via Firenze 78, Torino";NULL;3453164978
+Pedro;Baptista;pedrog@gmail.com;"via genova 122, Calabria";21675943021;02346885
+Reitch;Batomene;Batomene@gmail.it;"piazza dalmazia 33, Firenze";12345678918;02657811
+Santos;Adilson;Santos@gmail.it;"via Portello 14, Roma";NULL;3488520258
+simone;spita;simone@gmail.it;"via Firenze 78, Puglia";NULL;3453164978
+Stefano;Martina;Stefano@gmail.it;"via Savonarola 50, Milano";98765432109;0123456789
+Tommaso;Antonio;Antonio@gmail.it;"via Portello 14, Perugia";NULL;3488520258
+Vanna;Vanini;vannna@gmail.it;"via Scandicci 2, Siena";21648579626;3296514782
+zacarias;Nenganga;zacariasn@gmail.it;"via erbaia 74a, Barberino di Mugello";NULL;3485647896
